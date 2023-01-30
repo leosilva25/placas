@@ -1,0 +1,46 @@
+
+body{
+    text-align: center;
+}
+
+img{
+    width: 200px;
+}
+
+
+body{
+    background-image: url('route\ 66.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+button{
+    background-color: rgba(255, 255, 255, 0.767);
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 100px;
+    width: 300px;
+}
+
+.proximo{
+    background-color: rgba(0, 0, 0, 0.781);
+    color: white;
+    border:1px solid white;
+}
+
+footer{
+    background-color: rgba(255, 255, 255, 0.767);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin-top: 20px;
+    height: 100px;
+    font-size: 24px;
+}
+
+
+
+
